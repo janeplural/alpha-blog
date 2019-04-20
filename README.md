@@ -1,3 +1,3 @@
-#Alpha Blog
+# Alpha Blog
 
 Ruby on Rails project
